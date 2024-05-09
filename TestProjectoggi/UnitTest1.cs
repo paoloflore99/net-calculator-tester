@@ -1,4 +1,5 @@
-namespace net_calculator_tester
+using net_calculator_tester;
+namespace TestProjectoggi
 {
     public class Tests
     {

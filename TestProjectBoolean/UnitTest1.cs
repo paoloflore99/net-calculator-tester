@@ -1,3 +1,4 @@
+using net_calculator_teste
 namespace TestProjectBoolean
 {
     public class Tests
@@ -5,6 +6,7 @@ namespace TestProjectBoolean
         [SetUp]
         public void Setup()
         {
+
         }
 
         [Test]
